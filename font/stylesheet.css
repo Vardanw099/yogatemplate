@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Mollie glaston";
+  src: url("Mollieglaston.eot");
+  src: local("Mollie glaston"), local("Mollieglaston"),
+    url("Mollieglaston.eot?#iefix") format("embedded-opentype"),
+    url("Mollieglaston.woff2") format("woff2"),
+    url("Mollieglaston.woff") format("woff"),
+    url("Mollieglaston.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
